@@ -1,6 +1,6 @@
 # MoodSnap
 
-**Author:** Nikhil
+**Author:** Nikhil Raj
 
 A C++ command-line tool to log your mood, daily events, and personal learning.
 
